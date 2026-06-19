@@ -33,7 +33,7 @@ def blue(t):   return _c(t, "94")
 # ── Tool metadata ─────────────────────────────────────────────────────────────
 TOOL_NAME = "CIS Hardening Compliance Analyzer"
 VERSION   = "1.0"
-AUTHORS   = "Jasveer  |  Shah  |  Chen Yung"
+AUTHORS   = "Jasveer  |  Chen Yung"
 
 def print_banner():
     """Print the ASCII banner at startup."""
