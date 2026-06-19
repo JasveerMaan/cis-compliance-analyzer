@@ -55,4 +55,4 @@ Controls are matched between the guide and Nessus scan using a three-level looku
 
 ## Authors
 
-Jasveer · Shah · Chen Yung
+Jasveer · Chen Yung
